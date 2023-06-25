@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmygmail=self.webpackChunkmygmail||[]).push([[847],{7847:function(e,n,r){r.r(n);var l=r(4554),a=r(890),s=r(7689),i=r(184);n.default=function(){var e=(0,s.lk)();return console.log(e),(0,i.jsx)(l.Z,{style:{marginLeft:250},children:(0,i.jsx)(a.Z,{children:"There was an error loading"})})}}}]);
+//# sourceMappingURL=847.c61a8fc8.chunk.js.map
